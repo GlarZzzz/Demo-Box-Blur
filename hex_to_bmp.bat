@@ -1,0 +1,1 @@
+python post_blur.py output_image_blur.hex output_image_blur.bmp 640 480

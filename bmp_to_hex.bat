@@ -1,0 +1,1 @@
+python pre_blur.py output_rgb_to_gray_image.bmp input_image_blur.hex 640 480
