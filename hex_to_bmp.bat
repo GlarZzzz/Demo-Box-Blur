@@ -1,1 +1,0 @@
-python post_rgb.py image_gray_out.hex output_rgb_to_gray_image.bmp 640 480
